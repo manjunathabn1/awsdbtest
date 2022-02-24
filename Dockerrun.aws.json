@@ -1,0 +1,1 @@
+{  "AWSEBDockerrunVersion": "1",  "Image": {    "Name": "kammana/awsdbtest:v1",    "Update": "true"  },  "Ports": [    {      "ContainerPort": "8080"    }  ]}
